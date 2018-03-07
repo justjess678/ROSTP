@@ -1,0 +1,11 @@
+rosdistro: 'indigo
+
+  '
+roslaunch:
+  uris: {host_pc196l__35530: 'http://pc196l:35530/'}
+rosversion: '1.11.21
+
+  '
+run_id: 4938c04a-2208-11e8-b871-b8ca3aac1e33
+turtlesim1: {background_b: 1, background_g: 86, background_r: 69}
+turtlesim2: {background_b: 255, background_g: 86, background_r: 69}

@@ -1,0 +1,8 @@
+prefix=/home/etudiant/catkin_ws/devel
+
+Name: mon_paquet
+Description: Description of mon_paquet
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/etudiant/catkin_ws/devel/lib 
+Requires: 
